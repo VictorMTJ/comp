@@ -1,0 +1,22 @@
+@import url(variables.css);
+@import url(navbar.css);
+@import url(header.css);
+@import url(button.css);
+@import url(image-text.css);
+@import url(card.css);
+@import url(form.css);
+@import url(list.css);
+@import url(table.css);
+@import url(video.css);
+@import url(footer.css);
+@import url(dropdown.css);
+@import url(toggle.css);
+@import url(modal.css);
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
